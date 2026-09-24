@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BeamChat",
+  title: "Beam Chat",
   description: "Chatting App",
 };
 
